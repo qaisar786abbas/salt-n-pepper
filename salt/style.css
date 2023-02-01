@@ -1,0 +1,303 @@
+body{
+
+    width: 100%;
+    justify-content: center;
+    padding-top: 0px;
+    background-color: rgb(15, 11, 11);
+    margin: 0 auto;
+    /* background-image: width="100vh" height="100vh" url("https://png.pngtree.com/thumb_back/fh260/back_our/20190621/ourmid/pngtree-black-meat-western-food-banner-background-image_194600.jpg"); */
+    background-image: url(https://www.saltnpepper.com.pk/wp-content/uploads/2021/11/saltnpepper-village-home.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* position: fixed; */
+   
+}
+.row5{
+    margin-top: 20px;
+    margin-right: 10px;
+    justify-content: space-around;
+}
+.card{
+    border-style: solid;
+    border-color: rgb(248, 4, 4);
+    border-width: 5px;
+    margin: 30px auto;
+    padding-top: 20px;
+    padding: 20px 10px;
+    box-sizing: 40px;
+}
+.line{
+    height: 0px;
+    width: 20px;
+    justify-content: center;
+}
+.vv{
+    color: red;
+    
+}
+.row3 >img{
+    border-style: solid;
+    border-color:rgb(218, 21, 21);
+    border-width: 5px;
+    margin: 30px auto;
+}
+.cont{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.iii{
+    color: red;
+    justify-content: left;
+}
+.welcome{
+    background-image: url(https://www.saltnpepper.com.pk/wp-content/uploads/2021/11/saltnpepper-village-home.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.row{
+    background-color: rgb(15, 11, 11);
+    text-align: center;
+    padding-top: 10px;
+}
+button{
+    color: white;
+    background-color:  rgb(187, 15, 15);
+    border-radius: 5px;
+    border-style: thin;
+    border-color:  rgb(187, 15, 15);
+}
+hr{
+    color:  rgb(187, 15, 15);
+    font-weight: bolder;
+    padding-top: 15px;
+}
+img{
+    text-align: center;
+}
+.slide{
+    background-color: rgb(15, 11, 11);
+    padding-top: 20px;
+    padding-bottom: 100px;
+}
+.wel{
+    
+    color: white;
+    text-align: center;
+    letter-spacing: 10px;
+    font-style: italic;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.res{
+    color: white;
+    font-style: italic;
+    letter-spacing: 10px;
+}
+.aa{
+    text-align: center;
+    color: white;
+    padding-top: 50px;
+}
+.ss{
+    padding-top: 3px;
+    padding-bottom: 80px;
+    text-align: center;
+    color: white;
+}
+.card{
+  margin: 0 auto;
+    background-color: aliceblue;
+    justify-content: space-around;
+    text-align: center;
+}
+.row{
+    padding: 10px 0px; 
+    display: flex; 
+    text-align: center;
+    padding-left: none;
+    padding-top: 50;
+   padding-bottom: 150px;
+}
+.card > img{
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-left: 50px;
+    padding-bottom: 20px;
+   justify-content: space-around;
+}
+.tt{
+    background-color: rgb(15, 11, 11);
+    text-align: center;
+    padding-top: 50px;
+}
+.zz{
+    padding-bottom: 30px;
+}
+.r{
+    color: rgb(187, 15, 15);
+    
+}
+.t{
+    color: white;
+    padding-bottom: 100px;
+}
+.v{
+    padding-top: 100px;
+}
+.vv >i{
+    color: rgb(202, 10, 10);
+}
+.row4 >card >img{
+    background-color: #fff;
+}
+
+.row1{
+    padding-top: 80px;
+    display: flex;
+    padding-bottom: 50px;
+}
+.qw{
+    color: rgb(187, 15, 15);
+}
+.qq{
+    color: rgb(187, 15, 15);
+    padding-top: 100px;
+}
+.r{
+    color: rgb(187, 15, 15);
+    text-align: center;
+}
+.ll{
+    justify-content: center;
+    color: white;
+
+}
+
+.row2{
+    padding-top: none;
+    display: flex;
+    padding-bottom: 50px;
+}
+.jj{
+    text-align: center;
+    color: red;
+    background-color: rgb(15, 11, 11);
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.row3{
+    background-color:  rgb(15, 11, 11);
+    border-style: thick;
+}
+.g{
+    padding: 10px auto !important;
+    margin-top: 20px !important;
+    color: white;
+    text-align: center;
+    
+}
+.jac{
+    text-align: center;
+    color: red;
+}
+.jo{
+    text-align: center;
+    color: white;
+}
+.ajp{
+    justify: flex;
+    width: 250px;
+    height: 3px;
+    display: inline-block;
+    background-color: white;
+}
+.jb{
+    background-color: white;
+    padding: 30px;
+    border: 2px solid;
+}
+.cool{
+    text-align: left;
+}
+/* .juu{
+    margin: auto;
+    padding: auto;
+    width: auto;
+    height: auto;
+    border: 2px;
+} */
+.pjjj{
+    margin: auto;
+    padding: 0%;
+    color: black;
+    border: 30px;
+    border-color: red;
+    background-color: white;
+    font-size: 120%;
+}
+
+.you{
+    width: 500px;
+    height: 10px;
+    background-color: red;
+    display: inline-block;
+}
+.bd{
+    color: white;
+}
+.yt{
+    text-align: justify;
+    color: white;
+    font-style: ;
+    font-weight: 400;
+    line-height: 1.3em;
+    width: 100%;
+
+}
+.row4{
+    text-align: center;
+    color: red;
+display: flex;
+justify-content: space-around;
+}
+.row5{
+    margin-left: 50px;
+    text-align: center;
+    color: red;
+display: flex;
+justify-content: space-around;
+/* padding-top: 50px;
+padding-left: 0px;
+padding-right: 300px; */
+}
+.mr{
+    margin-left: auto;
+    text-align: center;
+    display: flex;
+    align-items: left;
+    color: white;
+}
+.iii{ 
+    text-align: center;
+padding-right: 800px;
+display: inline;
+}
+.vv{
+    text-align: left;
+}
+.container{
+
+ @media screen and(max-width: 400px) 
+        
+    
+}
+
+
+
+
+
+
